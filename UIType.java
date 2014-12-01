@@ -1,4 +1,4 @@
-/**
+﻿/**
  * 
  */
 package com.mistkafka.empmis.ui;
@@ -9,5 +9,9 @@ package com.mistkafka.empmis.ui;
  *
  */
 public class UIType {
+
+	public void ly() {
+		
+	}
 	
 }
