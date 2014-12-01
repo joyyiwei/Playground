@@ -1,4 +1,4 @@
-/**
+﻿/**
  * 
  */
 package com.mistkafka.empmis.ui;
@@ -32,7 +32,10 @@ public class UIFactory {
 	 * @return 生成的UI部件
 	 */
 	public BaseUI getComponent(String UIType) {
-		return null;
+		if (sb) {
+		}
+		else 
+		return cj;
 	}
 
 }
